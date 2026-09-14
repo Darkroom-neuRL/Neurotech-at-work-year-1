@@ -4,11 +4,4 @@ This is the task management repository for the first year of the Darkroom Projec
 
 All completed tasks will be embedded into the Darkroom-neuRL repository for access that is clear and directed. 
 
-Feasibility:
 
-Skills development:
-National Science Month blog posts: National Science Month 2026_ Blog posts.pdf
-National Science Month video clips
-
-Ethics and safety: 
-Scoping Review progress: 
